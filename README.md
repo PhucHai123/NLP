@@ -1,4 +1,4 @@
-#This project was done by my team using Python (Google Colaboratory).
+This project was done by my team using Python (Google Colaboratory).
 
 The data was scrape from Twitter. 
 
