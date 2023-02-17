@@ -1,6 +1,6 @@
 This project was done by my team using Python (Google Colaboratory).
 
-The data was scrape from Twitter. 
+The data was scraped from Twitter. 
 
 Day set: 7/1/2022.
 
