@@ -10,4 +10,4 @@ Topics scraped: 'Sony', 'politics', 'environment', 'technology', 'travel', 'sust
 
 The "Data.zip" file included all files we used in the project.
 
-This project was made to see the pros and cons of the 2 classification method (Bayesian Classifier and Logistic Regression Classifier) and other educational purposes so we've censored the API key we received from the Twitter's developers (we asked for their permission and the key). No information about the API key will be provided.
+This project was made to see the pros and cons of the 2 classification methods (Bayesian Classifier and Logistic Regression Classifier) and other educational purposes so we've censored the API key we received from the Twitter's developers (we asked for their permission and the key). No information about the API key will be provided.
